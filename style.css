@@ -34,7 +34,7 @@ h2{
     margin-left: 10%;
 }
 .half-section img{
-    width: 80%;
+    width: 100%;
 }
 a{
     text-decoration: none;
@@ -74,6 +74,7 @@ p{
     padding-left: 2%;
     float: left;
     width: 25%;
+    box-shadow: 20px 20px 30px gray;
 }
 .work-div img{
     width: 100%;
@@ -108,8 +109,9 @@ h3{
     color: white;
     margin: 5px;
 }
-.footer-section-div h4{
+.footer-section-div a{
     font-size: 30px;
+    background-image: none;
 }
 footer{
     text-align: center;
